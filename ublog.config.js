@@ -5,7 +5,7 @@ module.exports = {
   favicon:
     "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
   logo: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
-  npub: "npub1hk08saqjqxj0u98vjyeh8rd7n3828wh60wsf74nwkjexwlg22x6q4acuqq",
+  npub: "npub1ky4kxtyg0uxgw8g5p5mmedh8c8s6sqny6zmaaqj44gv4rk0plaus3m4fd2",
   themes: [
     "light",
     "dark",
